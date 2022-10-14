@@ -1,7 +1,3 @@
-# My Automation Script
-
-This repo contains my automation script for my current PC.
-
 ## Scripts
 
 ### obs-audio.sh
@@ -10,4 +6,8 @@ Make a new output sink called `obs_audio`. Audio that is being outputted to this
 
 ### cleanup.sh
 
-It does a disk cleanup of systemd journals and caches (pacman, pamac and yay). Set to run manually using alias.
+It does a disk cleanup of systemd journals and caches (pacman, pamac and yay). Set to run manually using an alias.
+
+### java-new-project.sh
+
+Creates a new project folder structure for Java with Visual Studio Code. Set to run manually using an alias.
